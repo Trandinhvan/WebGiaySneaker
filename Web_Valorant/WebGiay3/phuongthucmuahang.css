@@ -1,0 +1,16 @@
+﻿*{
+    margin:0px;
+    padding:0px;
+}
+body {
+    font-family:sans-serif;
+    font-size:12px;
+}
+#pttt{
+    height:40px;
+    border-bottom:1px solid #808080;
+    font-weight:bold;
+    font-size:18px;
+    line-height:40px;
+    background:#ddc9c9;
+}

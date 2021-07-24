@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title=""  description="">
+        <siteMapNode url="Home.aspx" title="Trang chủ"  description="Trang chủ" >
+        </siteMapNode>
+        <siteMapNode url="Gioithieu.aspx" title="Giới thiệu"  description="Giới thiệu" />
+        <siteMapNode url="tatCaSP.aspx" title="Tất cả sản phẩm"  description="Tất cả sản phẩm" >
+          <siteMapNode url="Nike.aspx" title="Nike"  description="Nike" />
+          <siteMapNode url="Adidas.aspx" title="Adidas"  description="Adidas" />
+          <siteMapNode url="Puma.aspx" title="Puma"  description="Puma" />
+          <siteMapNode url="Converse.aspx" title="Converse"  description="Converse" />
+          <siteMapNode url="NewBalance.aspx" title="New Balance"  description="New Balance" />
+        </siteMapNode>
+        <siteMapNode url="HuongDanDatHang.aspx" title="Hướng dẫn mua hàng"  description="Hướng dẫn mua hàng" />
+        <siteMapNode url="Cachchonsize.aspx" title="Cách chọn Size"  description="Cách chọn Size" />
+    </siteMapNode>
+</siteMap>

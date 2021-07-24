@@ -1,0 +1,108 @@
+﻿*{
+    margin:0px;
+    padding:0px;
+}
+body {
+    font-family:sans-serif;
+    font-size:12px;
+}
+#head1{
+    height:35px;
+    background:#000000;
+    color:#ffffff;
+    line-height:35px;
+}
+#header{
+    height:90px;
+    background:#e0d9d9;
+    
+}
+#logo
+{
+    height:84px;
+    width:110px;
+    float:left;
+}
+#search{
+    width:300px;
+    height:25px;
+    border:2px solid #000000;
+    margin-left:350px;
+}
+#menu{
+    height:40px;
+    background:#808080;
+}
+.MainMenu ul {
+    background-color:#808080;
+    height:40px;
+}
+.MainMenu ul.level1 {
+    font-size:20px;
+    font-weight:bold;
+    height:40px;
+    line-height:40px;
+}
+.MainMenu ul.level1 .selected {
+    background-color:#000000;
+}
+.MainMenu a.level1 {
+    padding-left:25px !important;
+    color:#fff;
+}
+.MainMenu a.level2 {
+    background-color:#808080;
+    color:#fff;
+    padding-left:8px;
+}
+.MainMenu a.level1:hover, a.level2:hover {
+    background-color:#000000;
+}
+#content{
+    height:700px;
+    background:#ffffff;
+}
+#footer{
+    height:80px;
+    background:#000000;
+}
+#bg{
+    width:1000px;
+    height:360px;
+    display: block; margin-left: auto; margin-right: auto;
+}
+.div1{
+    width:1200px;
+    height:380px;
+    display: block; margin-left: auto; margin-right: auto;
+}
+.bg2{
+    width:610px;
+    height:260px;
+    display: block; margin-left: auto; margin-right: auto;
+    float:left;
+}
+.bg3{
+    width:610px;
+    height:260px;
+    margin-left: auto; margin-right: auto;
+}
+.table{
+    border-spacing:20px;
+}
+#anhcuahang{
+    width:650px;
+    height:385px;
+    float:left;
+    display: block; margin-left: auto; margin-right: auto;
+}
+#anhcuahang2{
+    width:652px;
+    height:385px;
+    display: block; margin-left: auto; margin-right: auto;
+}
+#hdsize{
+    width:900px;
+    height:640px;
+    background-color:#f2e5e5;
+}
